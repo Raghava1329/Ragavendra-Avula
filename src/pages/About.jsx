@@ -19,17 +19,11 @@ export default function About() {
         transition={{ delay: 0.3, duration: 0.6 }}
       >
         <p>
-          I'm currently pursuing a B.Tech in Computer Science and Engineering at
-          Vignan’s Institute Of Information Technology (2022–2026), with a CGPA of 8.5.
-        </p>
-        <p>
-          I completed my intermediate from Narayana Junior College (89%) and 10th from
-          Kendriya Vidyalaya, Ongole (75%).
-        </p>
-        <p>
-          My interests include cloud computing, and solving challenging
-          algorithmic problems. I enjoy building scalable web and cloud solutions that solve
-          real-world problems.
+          Hello! I'm Ragavendra Avula, a dedicated Computer Science student with a strong foundation in AWS, Python, and machine learning. 
+          My journey in technology is fueled by a passion for creating scalable applications and robust cloud solutions, backed by extensive coding practice where I've solved over 1100 problems. 
+          I thrive in dynamic environments and enjoy tackling complex challenges, a skill honed through my roles as an AWS Intern, Python Development Intern, and Software Developer QA & DevOps.
+          As a Google Developer Groups (GDG) Cloud Lead, I've not only deepened my own cloud knowledge but also guided over 100 students in AWS.
+          I'm always eager to learn new technologies and contribute to impactful projects.
         </p>
       </motion.div>
 
