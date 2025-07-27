@@ -20,7 +20,7 @@ export default function About() {
       >
         <p>
           Hello! I'm Ragavendra Avula, a dedicated Computer Science student with a strong foundation in AWS, Python, and machine learning. 
-          My journey in technology is fueled by a passion for creating scalable applications and robust cloud solutions, backed by extensive coding practice where I've solved over 1100 problems. 
+          My journey in technology is fueled by a passion for creating scalable applications and robust cloud solutions, backed by extensive coding practice where I've solved over 1100+ problems. 
           I thrive in dynamic environments and enjoy tackling complex challenges, a skill honed through my roles as an AWS Intern, Python Development Intern, and Software Developer QA & DevOps.
           As a Google Developer Groups (GDG) Cloud Lead, I've not only deepened my own cloud knowledge but also guided over 100 students in AWS.
           I'm always eager to learn new technologies and contribute to impactful projects.
