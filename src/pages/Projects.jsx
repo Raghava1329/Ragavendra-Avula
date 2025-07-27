@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Intelligent Electric Vehicle Analytics",
     description:
-      "Machine learning-based prediction system for fire risks and performance in electric scooters. Utilized linear regression, decision trees, and random forest models hosted on AWS.",
+      "Machine learning-based prediction for the electrical vehicle performance which helps manufacturing comapnies and the customers to select a high performance vehicle. Utilized linear regression, decision trees, and random forest models hosted on AWS.",
     techStack: ["AWS", "Python", "Machine Learning", "Git", "GitHub", "JupyterLab"],
     demo: "https://github.com/Raghava1329/ev-vehicle-estimate-performance",
     image: "/images/ev_project.png"
@@ -12,8 +12,8 @@ const projects = [
   {
     title: "Parking Finder – Real-time Parking App",
     description:
-      "Modern web application to locate nearby parking spots in real-time with map integration. Includes rate comparison and direction features.",
-    techStack: ["React", "TypeScript", "Google Maps API", "Tailwind CSS", "Supabase"],
+      "Modern web application to locate nearby parking spots within the 2kms radius of the users location in real-time with map integration. Includes rate comparison and direction features.",
+    techStack: ["React", "TypeScript", "Google API's", "Tailwind CSS", "Supabase"],
     demo: "https://yourparkingfinder.netlify.app/",
     image: "/images/parking_project.jpeg"
   }
