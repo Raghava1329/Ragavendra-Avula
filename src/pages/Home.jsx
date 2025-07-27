@@ -78,7 +78,7 @@ export default function Home() {
           Download Resume
         </motion.a>
         <motion.a
-          href="https://drive.google.com/file/d/1uTVmk6wMP7gFDbROaO-_8eXtoAwIWC8d/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/11EvmQqk_Y0dCmc59U2hVvQhQemsWZMWS/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-transparent border border-blue-500 text-blue-400 px-6 py-3 rounded-full shadow-lg font-semibold hover:bg-blue-500 hover:text-white transition"
