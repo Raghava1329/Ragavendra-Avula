@@ -7,11 +7,12 @@ const experiences = [
     period: "May 2025 - Present",
     location: "Ahmedabad, IND",
     tasks: [
-      "Found 50+ critical bugs in mobile app through manual testing, boosting stability",
-      "Created 60+ test cases to reduce regression time and improve bug tracking",
-      "Managed AWS EC2 instances and set up AWS CodePipeline to optimize CI/CD",
-      "Implemented cron job scheduler for payments and automated MongoDB script generation",
-      "Managing the dev and prod servers and dev and prod DB's."
+      "Identified and documented 50+ critical bugs in mobile applications through manual testing, significantly enhancing application stability and user experience.",
+      "Developed 200+ comprehensive test cases, reducing regression testing time and consistently identifying critical bugs and UI inconsistencies.",
+      "Managed and maintained AWS EC2 instances, configured environment variables, and ensured high stability of both development and production servers.",
+      "Assisted in test data management within databases and configured AWS CodePipeline, optimizing CI/CD workflows for faster and more reliable deployments.",
+      "Developed and implemented a cron job scheduler for automated salon payments and created scripts for automated script generation and MongoDB management.",
+      "Managing the prod and dev servers and also managing the both the db’s."
     ]
   },
   {
@@ -21,9 +22,9 @@ const experiences = [
     location: "Visakhapatnam, IND",
     tasks: [
       "Led community initiatives focused on Google Cloud technologies and organized tech sessions for peers.",
-      "Conducted Hackathons, mentoring sessions, and cloud study jams to promote cloud adoption and learning",
-      "Collaborated with GDG organizers to facilitate hands-on learning and engage 300+ students",
-      "Guiding the 100+ students in the cloud computing technology aws."
+      "Collaborated with GDG organizers to facilitate hands-on learning and engage 300+ students.",
+      "Successfully organized and led Hackathons, mentoring sessions, and cloud study jams, significantly promoting cloud adoption and learning.",
+      "Mentored 200+ students in AWS cloud computing technology."
     ]
   },
   {
@@ -32,8 +33,8 @@ const experiences = [
     period: "May 2024 - June 2024",
     location: "Bhubaneswar, IND",
     tasks: [
-      "Built an ATM simulation using OOP in Python with key banking features.",
-      "Implemented input validation, error handling, and modular code.",
+      "Designed and built a robust ATM simulation interface using object-oriented programming in Python, demonstrating [e.g., strong OOD principles].",
+      "Implemented core banking features (balance inquiry, deposit, withdrawal) with robust input validation, ensuring data integrity.",
       "Applied modular coding practices to ensure reusability, readability, and error handling in application logic."
     ]
   },
@@ -43,10 +44,10 @@ const experiences = [
     period: "Jan 2024 - Mar 2024",
     location: "Hyderabad, IND",
     tasks: [
-      "Deployed and managed cloud infrastructure using AWS services including EC2, S3, IAM, ALB, and VPC",
-      "Configured secure virtual networks and automated deployment pipelines for scalability and efficiency",
-      "Implemented security best practices and optimized cloud resource usage to reduce operational costs",
-      "Managed and implemented manual and automated server along with auto scaling"
+      "Deployed and managed cloud infrastructure using AWS services(EC2, S3, IAM, ALB, VPC), enhancing scalability.",
+      "Configured secure virtual networks and implemented automated deployment pipelines, improving deployment efficiency.",
+      "Implemented security best practices and optimized cloud resource usage, resulting in a reduction in operational costs.",
+      "Managed and implemented both manual and automated server provisioning, including auto-scaling solutions, ensuring high availability and performance."
     ]
   }
 ];
