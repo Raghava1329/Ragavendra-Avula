@@ -43,6 +43,7 @@ export default function About() {
         >
           <h3 className="text-xl font-semibold mb-3 text-blue-400">Programming Languages</h3>
           <ul className="list-disc list-inside text-gray-300">
+            <li>C</li>
             <li>C++</li>
             <li>Python</li>
             <li>JavaScript</li>
@@ -78,6 +79,7 @@ export default function About() {
             <li>Communication</li>
             <li>Planning & Organizing</li>
             <li>Problem Solving</li>
+            <li>Time management</li>
           </ul>
         </motion.div>
 
@@ -88,12 +90,14 @@ export default function About() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          <h3 className="text-xl font-semibold mb-3 text-pink-400">Coding Stats</h3>
+          <h3 className="text-xl font-semibold mb-3 text-pink-400">Coding Stats and Achievements</h3>
           <ul className="list-disc list-inside text-gray-300">
             <li>1100+ problems solved</li>
             <li>1450+ rating, 2-star on CodeChef</li>
             <li>100-day streak on CodeChef</li>
             <li>50-day streak on LeetCode</li>
+            <li>1X Hackathon Winner</li>
+            <li>Nominated as GDG cloud lead</li>
           </ul>
         </motion.div>
       </motion.div>
