@@ -36,7 +36,7 @@ export default function Home() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 0.6 }}
       >
-        A passionate Computer Science student, AWS enthusiast, and problem solver. 1100+ coding problems solved. Skilled in DevOps, Python, C++, and web technologies.
+       Dedicated Computer Science student with 1100+ coding problems solved and hands-on experience in AWS, Python, and web technologies. Focused on creating robust and efficient software.
       </motion.p>
 
       <motion.div
