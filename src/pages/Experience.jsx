@@ -12,7 +12,7 @@ const experiences = [
       "Streamlined Kubernetes cluster management by using eksctl to create and manage AWS EKS clusters and Helm to simplify deployments.",
       "Engineered and deployed scalable, highly available containerized applications by integrating Docker, Kubernetes, and AWS services.",
     ]
-   }
+   },
   {
     role: "Software Developer QA and DevOps",
     company: "UnQue Cloudbook Pvt. Ltd",
