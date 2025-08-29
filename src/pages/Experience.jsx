@@ -14,6 +14,7 @@ const experiences = [
       "Developed and implemented a cron job scheduler for automated salon payments and created scripts for automated script generation and MongoDB management.",
       "Managing the prod and dev servers and also managing the both the db’s."
     ]
+   }
   {
     role: "Software Developer QA and DevOps",
     company: "UnQue Cloudbook Pvt. Ltd",
