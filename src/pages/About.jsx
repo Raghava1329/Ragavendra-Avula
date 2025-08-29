@@ -22,7 +22,7 @@ export default function About() {
           Hello! I'm Ragavendra Avula, a dedicated Computer Science student with a strong foundation in AWS, Python, and machine learning. 
           My journey in technology is fueled by a passion for creating scalable applications and robust cloud solutions, backed by extensive coding practice where I've solved over 1100+ problems. 
           I thrive in dynamic environments and enjoy tackling complex challenges, a skill honed through my roles as an AWS Intern, Python Development Intern, and Software Developer QA & DevOps.
-          As a Google Developer Groups (GDG) Cloud Lead, I've not only deepened my own cloud knowledge but also guided over 100 students in AWS.
+          As a Google Developer Groups (GDG) Cloud Lead, I've not only deepened my own cloud knowledge but also guided over 200+ students in AWS.
           I'm always eager to learn new technologies and contribute to impactful projects.
         </p>
       </motion.div>
@@ -92,7 +92,7 @@ export default function About() {
         >
           <h3 className="text-xl font-semibold mb-3 text-pink-400">Coding Stats and Achievements</h3>
           <ul className="list-disc list-inside text-gray-300">
-            <li>1100+ problems solved</li>
+            <li>1200+ problems solved</li>
             <li>1450+ rating, 2-star on CodeChef</li>
             <li>100-day streak on CodeChef</li>
             <li>50-day streak on LeetCode</li>
