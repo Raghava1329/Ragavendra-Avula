@@ -1,10 +1,23 @@
 import { motion } from "framer-motion";
 
 const experiences = [
+   {
+    role: "DevOps Engineer",
+    company: "Alphastream.ai",
+    period: " Augest 2025 - Present",
+    location: "Bangalore, IND",
+    tasks: [
+      "Managed containerization and orchestration using Docker, Kubernetes, and Docker Hub for application deployment.",
+      "Automated cloud infrastructure provisioning on AWS using Terraform, focusing on services like ECS and EKS",
+      "Streamlined Kubernetes cluster management by using eksctl to create and manage AWS EKS clusters and Helm to simplify deployments.",
+      "Engineered and deployed scalable, highly available containerized applications by integrating Docker, Kubernetes, and AWS services.",
+      "Developed and implemented a cron job scheduler for automated salon payments and created scripts for automated script generation and MongoDB management.",
+      "Managing the prod and dev servers and also managing the both the db’s."
+    ]
   {
     role: "Software Developer QA and DevOps",
     company: "UnQue Cloudbook Pvt. Ltd",
-    period: "May 2025 - Present",
+    period: "May 2025 - Augest 2025",
     location: "Ahmedabad, IND",
     tasks: [
       "Identified and documented 50+ critical bugs in mobile applications through manual testing, significantly enhancing application stability and user experience.",
