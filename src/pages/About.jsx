@@ -59,9 +59,9 @@ export default function About() {
         >
           <h3 className="text-xl font-semibold mb-3 text-green-400">Technologies & Tools</h3>
           <ul className="list-disc list-inside text-gray-300">
-            <li>AWS, GCP, LINUX,CI/CD</li>
+            <li>AWS, Docker, Kubernetes, Terraform, GCP, LINUX,CI/CD</li>
             <li>ReactJS, HTML, CSS</li>
-            <li>Git, GitHub, VS Code, CLI</li>
+            <li>Git, GitHub, VS Code, CLI, Eksctl, Helm</li>
             <li>MySQL, MongoDB, Supabase</li>
             <li>Manual Testing</li>
           </ul>
