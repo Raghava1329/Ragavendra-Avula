@@ -11,8 +11,6 @@ const experiences = [
       "Automated cloud infrastructure provisioning on AWS using Terraform, focusing on services like ECS and EKS",
       "Streamlined Kubernetes cluster management by using eksctl to create and manage AWS EKS clusters and Helm to simplify deployments.",
       "Engineered and deployed scalable, highly available containerized applications by integrating Docker, Kubernetes, and AWS services.",
-      "Developed and implemented a cron job scheduler for automated salon payments and created scripts for automated script generation and MongoDB management.",
-      "Managing the prod and dev servers and also managing the both the db’s."
     ]
    }
   {
